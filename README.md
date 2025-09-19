@@ -2,7 +2,7 @@
 
 This project implements a content-based movie recommendation system using the TMDB 5000 Movies dataset. The system suggests movies similar to a selected movie by analyzing metadata such as genres, keywords, cast, and crew.
 
-# 📌 Features
+## 📌 Features
 
 Preprocessing of movie and credits datasets.
 
@@ -14,7 +14,7 @@ Content-based recommendations using cosine similarity.
 
 Simple interface to query similar movies.
 
-# 📂 Dataset
+## 📂 Dataset
 
 The project uses the TMDB 5000 Movies dataset, which contains metadata for over 5,000 movies.
 It includes information such as:
@@ -27,7 +27,7 @@ Genres & Keywords
 
 Cast & Crew
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Python 3
 
@@ -39,7 +39,7 @@ scikit-learn – Vectorization & similarity calculations
 
 NLTK – Text preprocessing
 
-🚀 How It Works
+## 🚀 How It Works
 
 Load and merge movie and credits datasets.
 
